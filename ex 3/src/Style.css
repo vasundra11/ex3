@@ -1,0 +1,17 @@
+.Block{
+    background-color: rgb(168, 224, 104);
+    color: rgb(219, 8, 8);
+    
+  }
+  
+  @keyframes blink {
+    0% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
